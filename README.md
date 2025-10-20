@@ -23,12 +23,12 @@ Clone repo ini
 
 Bash
 
-git clone https://github.com/anonymous-Dust/engsel-gila
+git clone https://github.com/bastitaindo-code/Engsel
 Masuk ke foldernya
 
 Bash
 
-cd engsel-gila
+cd Engsel 
 Jalankan setup
 
 Bash
