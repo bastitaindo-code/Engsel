@@ -1,8 +1,6 @@
-# MYnyak Engsel
+#Engsel-Gila
 
-![banner](bnr.png)
-
-CLI client for a certain Indonesian mobile internet service provider.
+ENGSEL GILA for a certain Indonesian mobile internet service provider.
 
 # How to get API Key
 Chat telegram bot [@fykxt_bot](https://t.me/fykxt_bot) with message `/viewkey`. Copy the API key.
@@ -18,11 +16,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/kejuashuejia/reedem
+git clone https://github.com/annonymous-Dust/engsel-gila
 ```
 4. Open the folder
 ```
-cd reedem
+cd engsel-gila
 ```
 5. Setup
 ```
@@ -43,4 +41,4 @@ What's the point of strong client side security when the server don't enforce it
 
 ## Contact
 
-contact@mashu.lol
+support@nirmata.ai
