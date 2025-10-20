@@ -1,44 +1,51 @@
-#Engsel-Gila
+Engsel-Gila 🤪
+Sebuah tools ENGSEL GILA untuk salah satu provider layanan internet mobile di Indonesia. Kalian-tahu-siapa.
 
-ENGSEL GILA for a certain Indonesian mobile internet service provider.
+🔑 Cara Dapetin API Key
+Chat bot Telegram @fykxt_bot.
 
-# How to get API Key
-Chat telegram bot [@fykxt_bot](https://t.me/fykxt_bot) with message `/viewkey`. Copy the API key.
+Kirim pesan /viewkey.
 
-# How to run with TERMUX
-1. Update & Upgrade Termux
-```
+Copy (salin) API key yang kamu dapat.
+
+🚀 Cara Jalanin di TERMUX
+Update & Upgrade Termux
+
+Bash
+
 pkg update && pkg upgrade -y
-```
-2. Install Git
-```
+Install Git
+
+Bash
+
 pkg install git -y
-```
-3. Clone this repo
-```
-git clone https://github.com/annonymous-Dust/engsel-gila
-```
-4. Open the folder
-```
+Clone repo ini
+
+Bash
+
+git clone https://github.com/anonymous-Dust/engsel-gila
+Masuk ke foldernya
+
+Bash
+
 cd engsel-gila
-```
-5. Setup
-```
+Jalankan setup
+
+Bash
+
 bash setup.sh
-```
-6. Run the script
-```
+Jalankan script utamanya
+
+Bash
+
 python main.py
-```
-7. Input your API key when prompted
+Masukkan API key kamu pas diminta. Gampang, kan?
 
-# Info
+ℹ️ Info
+PS untuk Provider Itu...
+Daripada cuma delisting paket dari aplikasi, harusnya user dibikin gak bisa beli sekalian.
 
-## PS for Certain Indonesian mobile internet service provider
+Apa gunanya keamanan client-side yang kenceng kalo di sisi server-nya aja gak di-enforce? 🤷‍♂️
 
-Instead of just delisting the package from the app, ensure the user cannot purchase it.
-What's the point of strong client side security when the server don't enforce it?
-
-## Contact
-
-support@nirmata.ai
+📞 Kontak
+Punya pertanyaan? Email aja ke: support@nirmata.ai
